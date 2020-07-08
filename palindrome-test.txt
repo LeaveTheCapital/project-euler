@@ -1,0 +1,30 @@
+i 999 j 999
+i 998 j 999
+i 998 j 998
+i 997 j 999
+i 997 j 998
+i 996 j 999 (swapped with *)
+i 997 j 997 (swapped with *)
+i 996 j 998
+i 995 j 999
+i 996 j 997
+i 995 j 998
+i 996 j 996
+
+
+
+
+i 995 j 997
+product 992015
+i 995 j 996
+product 991020
+i 995 j 995
+product 990025
+i 994 j 999
+product 993006
+i 994 j 998
+product 992012
+i 994 j 997
+product 991018
+i 994 j 996
+product 990024
